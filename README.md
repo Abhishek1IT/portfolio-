@@ -15,12 +15,12 @@ I am an MCA student at AKTU and a Full Stack Developer passionate about building
 ### 📚 Library Management System
 A complete backend system for managing library assets.
 * **Tech:** Node.js, Express, MongoDB
-* [Link to Repository](#) *(Replace with actual link)*
+* [Link to Repository](#) *([Replace with actual link](https://github.com/Abhishek1IT/Library-management-system))*
 
 ### ✅ Todo App
 A full-stack task management application.
 * **Tech:** React, Node.js
-* [Link to Repository](#) *(Replace with actual link)*
+* [Link to Repository](#) *([Replace with actual link](https://github.com/Abhishek1IT/MY-TOODO-APP))*
 
 ---
 [Connect with me on LinkedIn](https://www.linkedin.com/in/abhishek-kumargupta18/) | [Email Me](abhishekkumargupta303@gmail.com)
