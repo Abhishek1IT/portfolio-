@@ -20,7 +20,7 @@ A complete backend system for managing library assets.
 ### ✅ Todo App
 A full-stack task management application.
 * **Tech:** React, Node.js
-* [Link to Repository](#) *([Replace with actual link](https://github.com/Abhishek1IT/MY-TOODO-APP))*
+* [Link to Repository](#) *([Replace with actual link](https://github.com/Abhishek1IT/Todo-List))*
 
 ---
 [Connect with me on LinkedIn](https://www.linkedin.com/in/abhishek-kumargupta18/) | [Email Me](abhishekkumargupta303@gmail.com) [Mobile No](+91 6386565025).
