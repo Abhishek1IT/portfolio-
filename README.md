@@ -12,6 +12,14 @@ I am an MCA student at AKTU and a Full Stack Developer passionate about building
 
 ## 🚀 Key Projects
 
+### Attendance Management System
+A complete full-stack system for managing employee attendance, leave workflows, and admin operations.
+
+Tech: React, Node.js, Express, MongoDB, JWT, Docker, Nginx
+Features: Role-based auth (Admin/Employee), check-in/check-out tracking, monthly summaries, leave apply/approve/reject, email notifications
+* [Link to Repository](#) *([Replace with actual link]([https://github.com/Abhishek1IT/Library-management-system](https://github.com/Abhishek1IT/Attendance-Management-System)))*
+
+
 ### 📚 Library Management System
 A complete backend system for managing library assets.
 * **Tech:** Node.js, Express, MongoDB
