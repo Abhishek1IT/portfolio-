@@ -36,6 +36,26 @@ https://github.com/Abhishek1IT/Attendance-Management-System
 
 ---
 
+### 📱 Social Post Application
+
+A complete full-stack social feed platform for user authentication, posting content, and real-time interactions.
+
+**Tech:** React, Node.js, Express, MongoDB, JWT, Docker, Nginx
+
+**Features:**
+
+- User authentication (Signup / Login)
+- Secure forgot-password and reset-password flow via email
+- Create posts with text and image URL
+- Public feed with latest posts first
+- Like / Unlike posts
+- Add comments on posts
+
+🔗 Repository:
+https://github.com/Abhishek1IT/Social-Post-Application
+
+---
+
 ### 📚 Library Management System
 
 A backend system for managing library books and user operations.
