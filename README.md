@@ -102,6 +102,3 @@ Mobile
 +91 6386565025
 
 ---
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Abhishek1IT&icon=0&color=0)
-+91 6386565025
