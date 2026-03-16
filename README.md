@@ -64,7 +64,7 @@ Features:
 - Protected feed and post interactions
 - Dockerized frontend, backend, and MongoDB setup
 
-Link: https://github.com/Abhishek1IT/Social-Post-Application
+🔗: https://github.com/Abhishek1IT/Social-Post-Application
 
 A full-stack social posting app where users can create posts, view a feed, like and unlike posts, and comment. It also includes authentication with JWT and password reset via email.
 
