@@ -54,6 +54,23 @@ Features:
 
 ---
 
+### Social Post Application
+Tech: React, Node.js, Express, MongoDB, JWT, Docker, Nginx
+
+Features:
+- User authentication with JWT
+- Create, view, like, and comment on social posts
+- Password reset flow with email notifications using SMTP
+- Protected feed and post interactions
+- Dockerized frontend, backend, and MongoDB setup
+
+Link: https://github.com/Abhishek1IT/Social-Post-Application
+
+A full-stack social posting app where users can create posts, view a feed, like and unlike posts, and comment. It also includes authentication with JWT and password reset via email.
+
+---
+
+
 ### 📚 Library Management System
 Tech: Node.js, Express, MongoDB
 
