@@ -14,7 +14,7 @@
 - 🎓 MCA Student at **AKTU**
 - 💻 Full Stack Developer (MERN / MEVN)
 - 🔧 Backend focused developer
-- 📚 Currently building **Attendance Management System**
+- 📚 Currently building **Attendance Management System And Chat-App**
 - 🐧 Linux & Docker enthusiast
 
 ---
